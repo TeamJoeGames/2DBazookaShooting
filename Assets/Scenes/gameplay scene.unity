@@ -1564,11 +1564,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyGo: {fileID: 1934499301151844, guid: aeabfac0c42fe094ebdb728bc5d30d49, type: 2}
   myImages:
-  - {fileID: 21300000, guid: a9cde94cbe1c049899c5edf8cad509b2, type: 3}
-  - {fileID: 21300000, guid: 710648235df2b4b478c1859150a5fd86, type: 3}
-  - {fileID: 21300000, guid: 75944f089a8dd4376a87e43b92c10e2a, type: 3}
-  - {fileID: 21300000, guid: 0de0b71a4b6df4de085ecdfbff354bac, type: 3}
-  - {fileID: 21300000, guid: 118768568ed114be9ade2f957863601d, type: 3}
+  - {fileID: 21300000, guid: c501a9a674101a4439b4db7f26df478d, type: 3}
+  - {fileID: 21300000, guid: 9f5198eb5674fcd4dad5e7c137bb3ce5, type: 3}
+  - {fileID: 21300000, guid: 6201c066f737e67458b72e530a8b3cd9, type: 3}
+  - {fileID: 21300000, guid: 299bc29aea5818a46ae05d81a4833389, type: 3}
+  - {fileID: 21300000, guid: d58f02d2a1de69b4cb5325aa2682384d, type: 3}
+  - {fileID: 21300000, guid: 491acb19b0d470947823e15d8eb96652, type: 3}
+  - {fileID: 21300000, guid: e255850ce02bf5747ba66af8643e1e37, type: 3}
+  - {fileID: 21300000, guid: c5511f8895debe74488867e6bd18f3eb, type: 3}
+  - {fileID: 21300000, guid: f8a41f70d044d5a44a8a2f87b865d287, type: 3}
 --- !u!1 &1816593247
 GameObject:
   m_ObjectHideFlags: 0
