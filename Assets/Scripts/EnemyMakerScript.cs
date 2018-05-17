@@ -16,7 +16,7 @@ public class EnemyMakerScript : MonoBehaviour {
 	{
 		GameObject newEnemyGo = (GameObject)Instantiate (enemyGo) as GameObject;
 		float x = Random.Range (-12.75f, 13.0f);
-		float y = -5;
+		float y = -7;
 		float z = 4;
 
 		newEnemyGo.transform.position = new Vector3 (x, y, z);

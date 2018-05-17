@@ -5,7 +5,8 @@ licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - enemyGo: {fileID: 1934499301151844, guid: aeabfac0c42fe094ebdb728bc5d30d49, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
